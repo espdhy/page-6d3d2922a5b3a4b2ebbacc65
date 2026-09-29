@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://web.penrock.cn/sitemap.xml
